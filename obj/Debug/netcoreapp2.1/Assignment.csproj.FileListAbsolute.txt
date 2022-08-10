@@ -1,0 +1,26 @@
+E:\Uni\Year 2\Advanced Software Development\C#\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.csprojAssemblyReference.cache
+E:\Uni\Year 2\Advanced Software Development\C#\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.csproj.CoreCompileInputs.cache
+E:\Uni\Year 2\Advanced Software Development\C#\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.AssemblyInfoInputs.cache
+E:\Uni\Year 2\Advanced Software Development\C#\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.AssemblyInfo.cs
+E:\Uni\Year 2\Advanced Software Development\Mike\C#\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.deps.json
+E:\Uni\Year 2\Advanced Software Development\Mike\C#\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.runtimeconfig.json
+E:\Uni\Year 2\Advanced Software Development\Mike\C#\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.runtimeconfig.dev.json
+E:\Uni\Year 2\Advanced Software Development\Mike\C#\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.dll
+E:\Uni\Year 2\Advanced Software Development\Mike\C#\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.pdb
+E:\Uni\Year 2\Advanced Software Development\Mike\C#\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.csprojAssemblyReference.cache
+E:\Uni\Year 2\Advanced Software Development\Mike\C#\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.csproj.CoreCompileInputs.cache
+E:\Uni\Year 2\Advanced Software Development\Mike\C#\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.AssemblyInfoInputs.cache
+E:\Uni\Year 2\Advanced Software Development\Mike\C#\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.AssemblyInfo.cs
+E:\Uni\Year 2\Advanced Software Development\Mike\C#\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.dll
+E:\Uni\Year 2\Advanced Software Development\Mike\C#\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.pdb
+E:\Uni\Year 2\Semester 1\Advanced Software Development\Mike\C#\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.csprojAssemblyReference.cache
+E:\Uni\Year 2\Semester 1\Advanced Software Development\Mike\C#\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.csproj.CoreCompileInputs.cache
+E:\Uni\Year 2\Semester 1\Advanced Software Development\Mike\C#\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.AssemblyInfoInputs.cache
+E:\Uni\Year 2\Semester 1\Advanced Software Development\Mike\C#\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.AssemblyInfo.cs
+E:\Uni\Year 2\Semester 1\Advanced Software Development\Mike\C#\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.dll
+E:\Uni\Year 2\Semester 1\Advanced Software Development\Mike\C#\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment.pdb
+E:\Uni\Year 2\Semester 1\Advanced Software Development\Mike\C#\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.deps.json
+E:\Uni\Year 2\Semester 1\Advanced Software Development\Mike\C#\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.runtimeconfig.json
+E:\Uni\Year 2\Semester 1\Advanced Software Development\Mike\C#\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.runtimeconfig.dev.json
+E:\Uni\Year 2\Semester 1\Advanced Software Development\Mike\C#\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.dll
+E:\Uni\Year 2\Semester 1\Advanced Software Development\Mike\C#\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment.pdb
